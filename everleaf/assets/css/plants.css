@@ -105,6 +105,7 @@ html {
 body {
   background: var(--white);
   padding-block: 70px;
+  padding-inline: 6px ;
 }
 
 
@@ -445,7 +446,7 @@ c
   
     .product-list > li { width: calc(50% - 12.5px); }
     .section{
-        padding: 11px;
+        padding: 6px;
     }
   
     /* .slider-box  img{
@@ -466,33 +467,13 @@ c
     flex-wrap: wrap;
    
   }
+ .product-card .card-action-btn  p{
+font-size: 12px;
+  }
   
   
   
     
-  /* plant campaign */
-  
-  
-    .blog-card2 .card-banner2  {
-      /* background: var(--cultured);
-      aspect-ratio: 2 / 1.37;
-      overflow: hidden;
-      margin-bottom: 25px; */
-      /* margin-left: 43px; */
-      /* text-align: left */
-    width: 90%;
-    margin-left: 9px;
-    }
-  
-    .blog-card2 .message{
-      color: black;
-      /* text-align: left; */
-      /* margin-top: -120px;
-      margin-left: 800px; */
-      /* width: fit-content; */
-      margin-left: 9px;
-      margin-top: 8px;
-    }
   
   
   
@@ -537,16 +518,7 @@ c
     .category-list > li { width: calc(50% - 15px); }
   
     .product-list > li { width: calc(50% - 12.5px); }
-    .blog-card2 .message{
-      color: black;
-      /* text-align: left; */
-      /* margin-top: -120px;
-      margin-left: 800px; */
-      /* width: fit-content; */
-      margin-left: 9px;
-      margin-top: 8px;}
-      
-  
+    
   
     /**
      * REUSED STYLE
@@ -817,7 +789,7 @@ c
     .product-card .card-action-btn:last-child { border-radius: 0 6px 6px 0; }
   
   .section{
-    padding: 11px;
+    padding: 6px;
   }
   
     /**
