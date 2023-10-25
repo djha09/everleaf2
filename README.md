@@ -9,11 +9,11 @@
   <h2 align="center">EverLeaf- Where Nature Comes Home.</h2>
 
   Welcome to our plant paradise! Here you`ll find a wide selection of high-quality, locally sourced plants for any occasion.From decorative pots and planters to tropical and exotic plants, we have something for everyone.
-
-  Made by 
-  Dipesh jha
-  Mohit Kanyal
-  Aashish Gupta
+<br/>
+  Made by <br/>
+  Dipesh jha<br/>
+  Mohit Kanyal<br/>
+  Aashish Gupta<br/>
   Dixit Jain
 
 
